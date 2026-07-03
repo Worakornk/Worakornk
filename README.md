@@ -1,14 +1,39 @@
 ### Worakorn Koonawootrittriron
 
-Network security engineer who builds a lot of software.
+**Enterprise Network Security Engineer · Founder & CEO of [Farmeral Technology](https://github.com/farmeral-technology)**
 
-Most of my time goes into network security and wireless research — right now, WiFi CSI for indoor positioning. The rest goes into product: I'm currently building [Farmeter](https://github.com/farmeral-technology) at Farmeral Technology, an agri-tech platform.
+---
 
-On the side I've built things like [ZideQuest](https://github.com/ZideQuest), a React Native app, and a bit of Solidity when I got curious about DeFi. Mostly Python and TypeScript day to day, with Rust and C where they fit.
+#### 🔐 Network Security
 
-<br>
+Focused on enterprise network security with hands-on experience across the full project lifecycle — site surveys, device installation, on-site/remote configuration, firewall hardening, migration, documentation, functional testing, troubleshooting, incident handling, and out-of-hours support.
 
-**What I work with**
+I implement and support Next-Generation Firewall (NGFW) and network projects on:
+
+- **Cisco** — ASA & FTD on Firepower, FMC, ISE, CIMC, routers & switches
+- **Fortinet** — FortiGate, FortiManager, FortiAnalyzer, FortiConverter
+- **Palo Alto** — NGFW, Panorama, Strata Cloud Manager
+- **Huawei** — HiSecEngine USG
+- **Monitoring & assessment** — What's Up Gold, Tenable Nessus, Wireshark
+- **Virtualization & labs** — VMware ESXi / vSphere / vCenter, EVE-NG
+
+I also build internal tools to speed up security operations: a SASE report formatter (MERN stack), interactive network-operation reports in Power BI, and Python automation scripts.
+
+---
+
+#### 🌱 Farmeral Technology
+
+As founder and CEO, I lead a young, mission-driven team of engineers from Kasetsart University building a trusted digital partner for Thai farmers — combining practical farm expertise with modern software, data systems, and AI-powered tools.
+
+We're growing from core farm-management solutions into a broader agricultural technology ecosystem, with a current focus on **digital livestock management** — helping farms track history, health, costs, and productivity so they can make clearer, data-driven decisions.
+
+**Focus areas:** digital livestock management · data-driven farm operations · partner & research collaboration · team leadership · product strategy and scalable growth.
+
+On the side I also tinker with mobile apps ([ZideQuest](https://github.com/ZideQuest)), machine learning for wireless positioning (WiFi CSI), and the occasional smart contract.
+
+---
+
+#### 🛠️ What I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -40,5 +65,6 @@ On the side I've built things like [ZideQuest](https://github.com/ZideQuest), a 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
