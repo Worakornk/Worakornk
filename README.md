@@ -1,12 +1,10 @@
 ### Worakorn Koonawootrittriron
 
-Network security engineer, and I write a fair bit of software too.
+Network security engineer who builds a lot of software.
 
-Most of my time goes into network security and wireless research — lately WiFi CSI for indoor positioning. Outside of that I end up building all sorts of things: web apps, a React Native app ([ZideQuest](https://github.com/ZideQuest)), an Android app, a Discord bot, even a few Solidity contracts when I got curious about DeFi.
+Most of my time goes into network security and wireless research — right now, WiFi CSI for indoor positioning. The rest goes into product: I'm currently building [Farmeter](https://github.com/farmeral-technology) at Farmeral Technology, an agri-tech platform with a Rust/PostgreSQL backend, a Vue web app, and a Flutter mobile app on Kubernetes.
 
-Mostly work in Python and TypeScript. Comfortable in C when I'm poking at firmware, Kotlin for Android, Solidity for the blockchain stuff.
-
-These days I'm building [Farmeter](https://github.com/farmeral-technology) at Farmeral Technology — an agri-tech platform with a Rust and PostgreSQL backend, Vue and TypeScript on the web, a Flutter mobile app, all running on Kubernetes.
+On the side I've built things like [ZideQuest](https://github.com/ZideQuest), a React Native app, and a bit of Solidity when I got curious about DeFi. Mostly Python and TypeScript day to day, with Rust and C where they fit.
 
 <br>
 
@@ -14,29 +12,13 @@ These days I'm building [Farmeter](https://github.com/farmeral-technology) at Fa
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 <br>
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-<br>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat)
 <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
