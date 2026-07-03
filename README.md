@@ -17,13 +17,13 @@ I implement and support Next-Generation Firewall (NGFW) and network projects on:
 - **Monitoring & assessment** — What's Up Gold, Tenable Nessus, Wireshark
 - **Virtualization & labs** — VMware ESXi / vSphere / vCenter, EVE-NG
 
-I also build internal tools to speed up security operations: a Log report formatter (MERN stack), interactive network-operation reports in Power BI, and Python automation scripts.
+I also build internal tools to speed up security operations: a log report formatter (MERN stack), interactive network-operation reports in Power BI, and Python automation scripts.
 
 ---
 
 #### 🌱 Farmeral Technology
 
-As founder and CEO, I lead a young, mission-driven team of engineers from Kasetsart University building a trusted digital partner for Thai farmers — combining practical farm expertise with modern software, data systems, and AI-powered tools.
+As co-founder and CEO, I lead a young, mission-driven team of engineers from Kasetsart University building a trusted digital partner for Thai farmers — combining practical farm expertise with modern software, data systems, and AI-powered tools.
 
 We're growing from core farm-management solutions into a broader agricultural technology ecosystem, with a current focus on **digital livestock management** — helping farms track history, health, costs, and productivity so they can make clearer, data-driven decisions.
 
