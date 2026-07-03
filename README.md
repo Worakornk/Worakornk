@@ -6,8 +6,6 @@ Most of my time goes into network security and wireless research — lately WiFi
 
 Mostly work in Python and TypeScript. Comfortable in C when I'm poking at firmware, Kotlin for Android, Solidity for the blockchain stuff.
 
-Reach me at worakornk@gmail.com.
-
 <br>
 
 **What I work with**
@@ -26,8 +24,3 @@ Reach me at worakornk@gmail.com.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-
-<br>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Worakornk&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Worakornk&layout=compact&hide_border=true&langs_count=8)
