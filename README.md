@@ -17,7 +17,7 @@ I implement and support Next-Generation Firewall (NGFW) and network projects on:
 - **Monitoring & assessment** — What's Up Gold, Tenable Nessus, Wireshark
 - **Virtualization & labs** — VMware ESXi / vSphere / vCenter, EVE-NG
 
-I also build internal tools to speed up security operations: a SASE report formatter (MERN stack), interactive network-operation reports in Power BI, and Python automation scripts.
+I also build internal tools to speed up security operations: a Log report formatter (MERN stack), interactive network-operation reports in Power BI, and Python automation scripts.
 
 ---
 
@@ -29,9 +29,9 @@ We're growing from core farm-management solutions into a broader agricultural te
 
 **Focus areas:** digital livestock management · data-driven farm operations · partner & research collaboration · team leadership · product strategy and scalable growth.
 
-On the side I also tinker with mobile apps ([ZideQuest](https://github.com/ZideQuest)), machine learning for wireless positioning (WiFi CSI), and the occasional smart contract.
-
 ---
+
+On the side I also tinker with mobile apps ([ZideQuest](https://github.com/ZideQuest)), machine learning for wireless positioning (WiFi CSI), and the occasional smart contract.
 
 #### 🛠️ What I work with
 
