@@ -1,6 +1,6 @@
 ### Worakorn Koonawootrittriron
 
-**Enterprise Network Security Engineer · Founder & CEO of [Farmeral Technology](https://github.com/farmeral-technology)**
+**Founder & CEO of [Farmeral Technology](https://github.com/farmeral-technology) · Enterprise Network Security Engineer **
 
 ---
 
