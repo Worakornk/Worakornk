@@ -2,7 +2,7 @@
 
 Network security engineer who builds a lot of software.
 
-Most of my time goes into network security and wireless research — right now, WiFi CSI for indoor positioning. The rest goes into product: I'm currently building [Farmeter](https://github.com/farmeral-technology) at Farmeral Technology, an agri-tech platform with a Rust/PostgreSQL backend, a Vue web app, and a Flutter mobile app on Kubernetes.
+Most of my time goes into network security and wireless research — right now, WiFi CSI for indoor positioning. The rest goes into product: I'm currently building [Farmeter](https://github.com/farmeral-technology) at Farmeral Technology, an agri-tech platform.
 
 On the side I've built things like [ZideQuest](https://github.com/ZideQuest), a React Native app, and a bit of Solidity when I got curious about DeFi. Mostly Python and TypeScript day to day, with Rust and C where they fit.
 
@@ -16,6 +16,7 @@ On the side I've built things like [ZideQuest](https://github.com/ZideQuest), a 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 <br>
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
