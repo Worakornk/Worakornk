@@ -1,79 +1,53 @@
-<div align="center">
+# Hi, I'm Worakorn Koonawootrittriron 👋
 
-```
- __        __             _                        _  __
- \ \      / /__  _ __ __ _| | _____  _ __ _ __ | |/ /
-  \ \ /\ / / _ \| '__/ _` | |/ / _ \| '__| '_ \| ' /
-   \ V  V / (_) | | | (_| |   < (_) | |  | | | | . \
-    \_/\_/ \___/|_|  \__,_|_|\_\___/|_|  |_| |_|_|\_\
-```
+**Network Security Engineer · Software Developer**
 
-```
-[ SYSTEM ONLINE ] :: root@worakornk:~# ./init.sh --mode=security
-```
+I build software at the intersection of **cybersecurity, wireless systems, and applied machine learning**. My work ranges from network security and WiFi/CSI research to full-stack applications and smart contracts.
 
-</div>
+- 🔐 Focused on network security, penetration testing, and secure system design
+- 📡 Researching WiFi Channel State Information (CSI) for wireless positioning
+- 🤖 Applying machine learning to real-world sensing and localization problems
+- 🌐 Comfortable across the stack — backend, frontend, mobile, and Web3
 
-```console
-root@worakornk:~$ whoami
-> Worakorn Koonawootrittriron
+---
 
-root@worakornk:~$ cat ./profile.json
-{
-  "handle"   : "Worakornk",
-  "role"     : "Network Security Engineer",
-  "focus"    : [ "Cybersecurity", "WiFi/CSI Research", "AI & ML" ],
-  "status"   : "scanning ports...",
-  "mindset"  : "passionate developer | breaker & builder"
-}
+### 🛠️ Tech Stack
 
-root@worakornk:~$ sudo nmap --grant localhost
-[####################] 100%  ACCESS GRANTED
-```
+**Languages**
 
-## `> ./stack --list`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
-```
-LANGUAGES  ::  [ Python ]  [ TypeScript ]  [ C / C++ ]  [ Solidity ]  [ Kotlin ]  [ JavaScript ]
-SECURITY   ::  [ Network Security ]  [ Pentesting ]  [ WiFi / CSI ]  [ nexmon ]
-AI / ML    ::  [ PyTorch ]  [ scikit-learn ]  [ Jupyter ]  [ Generative AI ]
-WEB / APP  ::  [ React ]  [ Next.js ]  [ Node.js ]  [ Android / Kotlin ]
-WEB3       ::  [ Solidity ]  [ DeFi ]  [ Smart Contracts ]
-TOOLS      ::  [ Linux ]  [ Git ]  [ Docker ]  [ Wireshark ]  [ Vim ]
-```
+**Frameworks & Tools**
 
-## `> ./ping --github-stats`
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Worakornk&show_icons=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Worakornk&layout=compact&hide_border=true&title_color=00ff00&text_color=c9d1d9&bg_color=0d1117)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Worakornk&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9)
+![Stats](https://github-readme-stats.vercel.app/api?username=Worakornk&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Worakornk&layout=compact&hide_border=true&langs_count=8)
 
 </div>
 
-## `> ./connect --socket`
+---
 
-```
-[ * ] GitHub    : github.com/Worakornk
-[ * ] Email     : worakornk@gmail.com
-[ * ] Status    : open to collaborate on security & AI projects
-```
+### 📫 Connect
 
-<div align="center">
-
-```
-  ┌───────────────────────────────────────────────┐
-  │  " stay curious. break things. build better. "  │
-  └───────────────────────────────────────────────┘
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=Worakornk&color=00ff00&style=flat-square&label=VISITORS)
-
-```
-root@worakornk:~$ logout
-[ CONNECTION TERMINATED ]  ▓▒░
-```
-
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:worakornk@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Worakornk)
